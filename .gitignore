@@ -2,3 +2,6 @@ Kaggle500Dataset
 Code/.ipynb_checkpoints
 *.h5
 *.mlmodel
+Code/mobilenetv2
+*.zip
+Code/mobilenetv2-1
